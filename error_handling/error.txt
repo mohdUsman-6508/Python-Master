@@ -1,0 +1,1 @@
+This is the traditional way of handling file, nowadays we use 'with' 

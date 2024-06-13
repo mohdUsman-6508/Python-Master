@@ -1,10 +1,12 @@
 # def debug(func):
 #   def wrapper(*args,**kwargs):
 #     print(func.__name__)
+
 #     for i in args:
 #       print(i)
 #     for k,v in kwargs.items():
 #       print(k,v)
+#     return func(*args,**kwargs)
 #   return wrapper
 
 # alternative
