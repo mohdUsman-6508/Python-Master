@@ -1,0 +1,4 @@
+Issac:[9, 8, 10] 
+Tesla:[10, 9, 7] 
+Edison:[9, 9, 9] 
+Einstein:[8, 10, 7] 
