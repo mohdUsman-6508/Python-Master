@@ -1,0 +1,1 @@
+This a new file, you don't have to write finally and close the file manually.
