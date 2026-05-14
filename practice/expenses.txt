@@ -1,0 +1,1 @@
+[{"title": "apple", "amount": 100.0, "category": "fruit", "date": "2026-01-10"}, {"title": "pizza", "amount": 200.0, "category": "food", "date": "2026-01-10"}, {"title": "banana", "amount": 60.0, "category": "fruit", "date": "2025-02-10"}, {"title": "milk", "amount": 40.0, "category": "food", "date": "2026-05-10"}]
