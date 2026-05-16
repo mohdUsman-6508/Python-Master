@@ -1,0 +1,22 @@
+[
+    {
+        "name": "newton",
+        "roll_number": "1",
+        "marks_list": [10,8,7]
+    },
+    {
+        "name": "faraday",
+        "roll_number": "2",
+        "marks_list": [9,4,8]
+    },
+    {
+        "name": "galileo",
+        "roll_number": "3",
+        "marks_list": [4,3,6]
+    },
+    {
+        "name": "al-khwarizmi",
+        "roll_number": "4",
+        "marks_list": [10,5,9]
+    }
+]
