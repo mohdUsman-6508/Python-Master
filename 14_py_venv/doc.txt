@@ -1,0 +1,6 @@
+python -m venv <name>
+virtalenv <name>
+
+run the activate.bat
+pip list > requirements.txt
+deactivate
